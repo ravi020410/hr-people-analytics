@@ -1,0 +1,6 @@
+Total Employees = DISTINCTCOUNT(Dim_Employee[EmployeeID])
+Active Employees = CALCULATE([Total Employees], Dim_Employee[ActiveStatus] = 1)
+Voluntary Exits = CALCULATE([Total Employees], Dim_Employee[ActiveStatus] = 0)
+Attrition Rate % = DIVIDE([Voluntary Exits], [Total Employees])
+Average Tenure = AVERAGE(Dim_Employee[TenureYears])
+Average Salary Deviation % = AVERAGE(Fact_Salaries[SalaryDeviationPct])
