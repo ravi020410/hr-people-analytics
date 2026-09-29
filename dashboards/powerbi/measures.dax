@@ -1,0 +1,118 @@
+// ============================================================================
+// HR People Analytics — Enterprise DAX Measure Library
+// Power BI Semantic Layer Measures for hr_people_analytics.pbix
+// ============================================================================
+
+// ----------------------------------------------------------------------------
+// 1. Workforce & Headcount Dynamics
+// ----------------------------------------------------------------------------
+
+Total Ever Employed =
+COUNTROWS ( employees_clean )
+
+Active Headcount =
+CALCULATE (
+    COUNTROWS ( employees_clean ),
+    employees_clean[active_status] = 1
+)
+
+Departed Headcount =
+CALCULATE (
+    COUNTROWS ( employees_clean ),
+    employees_clean[active_status] = 0
+)
+
+Cumulative Attrition Rate % =
+DIVIDE ( [Departed Headcount], [Total Ever Employed] )
+
+Voluntary Departures =
+CALCULATE (
+    COUNTROWS ( employees_clean ),
+    employees_clean[active_status] = 0,
+    NOT ( employees_clean[termination_reason] IN { "Performance", "Restructuring", "Policy Violation" } )
+)
+
+Involuntary Departures =
+[Departed Headcount] - [Voluntary Departures]
+
+Voluntary Departure % =
+DIVIDE ( [Voluntary Departures], [Departed Headcount] )
+
+Average Tenure Years =
+AVERAGEX (
+    employees_clean,
+    DIVIDE (
+        DATEDIFF (
+            employees_clean[hire_date],
+            COALESCE ( employees_clean[termination_date], DATE ( 2025, 12, 31 ) ),
+            DAY
+        ),
+        365.25
+    )
+)
+
+// ----------------------------------------------------------------------------
+// 2. Compensation, Financial Exposure & Pay Equity
+// ----------------------------------------------------------------------------
+
+Average Base Salary =
+CALCULATE (
+    AVERAGE ( compensation_clean[base_salary] ),
+    compensation_clean[is_valid_salary] = TRUE
+)
+
+Total Voluntary Attrition Cost =
+SUMX (
+    FILTER (
+        employees_clean,
+        employees_clean[active_status] = 0
+            && NOT ( employees_clean[termination_reason] IN { "Performance", "Restructuring", "Policy Violation" } )
+    ),
+    RELATED ( compensation_clean[base_salary] ) * 0.5
+)
+
+Male Avg Salary =
+CALCULATE (
+    [Average Base Salary],
+    employees_clean[gender] = "Male"
+)
+
+Female Avg Salary =
+CALCULATE (
+    [Average Base Salary],
+    employees_clean[gender] = "Female"
+)
+
+Gender Pay Gap % =
+DIVIDE ( [Male Avg Salary] - [Female Avg Salary], [Male Avg Salary] )
+
+// ----------------------------------------------------------------------------
+// 3. Performance, Promotions & Exit Sentiment
+// ----------------------------------------------------------------------------
+
+Average Performance Score =
+CALCULATE (
+    AVERAGE ( performance_reviews_clean[performance_score] ),
+    performance_reviews_clean[is_valid_score] = TRUE
+)
+
+Promotion Rate % =
+DIVIDE (
+    CALCULATE (
+        DISTINCTCOUNT ( performance_reviews_clean[employee_id] ),
+        performance_reviews_clean[promotion_flag] = TRUE
+    ),
+    DISTINCTCOUNT ( performance_reviews_clean[employee_id] )
+)
+
+Average Exit Satisfaction =
+AVERAGE ( exit_surveys_clean[satisfaction_score] )
+
+Average Work-Life Balance =
+AVERAGE ( exit_surveys_clean[work_life_balance_score] )
+
+Would Recommend % =
+DIVIDE (
+    CALCULATE ( COUNTROWS ( exit_surveys_clean ), exit_surveys_clean[would_recommend] = TRUE ),
+    COUNTROWS ( exit_surveys_clean )
+)

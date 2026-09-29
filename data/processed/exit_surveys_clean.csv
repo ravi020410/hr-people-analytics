@@ -1,0 +1,968 @@
+exit_survey_id,employee_id,exit_date,reason,satisfaction_score,work_life_balance_score,would_recommend
+1,EMP-11955,2025-04-14,Compensation,3,3,True
+2,EMP-11588,2025-04-26,Performance,1,4,False
+3,EMP-11671,2025-03-31,Relocation,3,2,False
+4,EMP-10361,2025-03-18,Relocation,3,3,True
+5,EMP-11430,2025-11-21,Relocation,3,4,True
+6,EMP-13038,2023-02-22,Retirement,5,3,False
+7,EMP-11590,2025-08-03,Career Change,3,3,False
+8,EMP-12376,2025-09-16,Better Opportunity,4,2,True
+9,EMP-10276,2025-11-27,Better Opportunity,4,4,False
+10,EMP-11214,2023-10-24,Compensation,4,4,False
+11,EMP-12187,2023-08-28,Compensation,2,2,False
+12,EMP-10472,2021-07-20,Retirement,5,3,False
+13,EMP-11300,2025-06-05,Compensation,3,5,False
+14,EMP-11591,2023-04-20,Relocation,2,2,True
+15,EMP-12695,2022-05-15,Compensation,4,2,True
+16,EMP-12104,2023-10-28,Compensation,5,3,True
+17,EMP-10962,2022-11-05,Retirement,3,3,False
+18,EMP-12241,2025-07-27,Performance,1,3,False
+19,EMP-10617,2024-11-23,Relocation,4,3,False
+20,EMP-10523,2023-01-13,Retirement,4,3,False
+21,EMP-13031,2025-07-19,Performance,1,5,True
+22,EMP-11274,2023-12-01,Policy Violation,2,3,False
+23,EMP-12404,2025-02-22,Relocation,2,3,True
+24,EMP-12576,2024-10-16,Compensation,3,5,True
+25,EMP-13058,2023-05-19,Family Reasons,3,1,True
+26,EMP-13276,2025-02-27,Retirement,3,2,False
+27,EMP-12446,2025-01-26,Performance,3,3,True
+28,EMP-10754,2025-06-09,Career Change,5,3,True
+29,EMP-11442,2025-03-05,Relocation,3,3,True
+30,EMP-10045,2025-07-28,Career Change,5,4,True
+31,EMP-12801,2023-10-26,Retirement,4,4,False
+32,EMP-11290,2025-05-23,Family Reasons,4,2,True
+33,EMP-12352,2025-11-21,Retirement,3,2,False
+34,EMP-12842,2023-12-05,Retirement,4,1,True
+35,EMP-10518,2020-07-19,Compensation,3,4,True
+36,EMP-11623,2020-10-21,Relocation,2,4,False
+37,EMP-11492,2025-10-21,Career Change,4,4,False
+38,EMP-11783,2024-01-17,Career Change,3,3,False
+39,EMP-11031,2024-05-19,Retirement,3,4,False
+40,EMP-10543,2025-10-02,Family Reasons,4,3,True
+41,EMP-12368,2025-02-26,Performance,2,4,False
+42,EMP-13056,2025-11-19,Relocation,3,4,True
+43,EMP-10604,2025-10-07,Family Reasons,4,4,False
+44,EMP-13040,2022-09-13,Compensation,5,3,True
+45,EMP-12040,2022-09-29,Family Reasons,3,4,False
+46,EMP-10785,2023-09-26,Better Opportunity,5,3,True
+47,EMP-10735,2025-01-31,Compensation,2,2,True
+48,EMP-11471,2022-03-12,Retirement,4,3,True
+49,EMP-10928,2024-01-06,Family Reasons,3,3,True
+50,EMP-11107,2023-03-27,Compensation,3,4,True
+51,EMP-10473,2021-12-18,Performance,2,2,False
+52,EMP-12112,2022-09-11,Career Change,3,3,False
+53,EMP-10257,2025-04-14,Performance,2,3,False
+54,EMP-10536,2023-05-03,Retirement,4,3,True
+55,EMP-11940,2024-12-03,Retirement,5,5,True
+56,EMP-12820,2021-12-04,Restructuring,3,5,False
+57,EMP-11936,2025-01-21,Better Opportunity,4,4,True
+58,EMP-10394,2020-12-10,Retirement,2,3,True
+59,EMP-12484,2024-07-24,Better Opportunity,3,1,True
+60,EMP-12022,2024-10-01,Performance,1,2,False
+61,EMP-10141,2025-05-10,Compensation,2,4,True
+62,EMP-10415,2022-08-04,Relocation,5,4,True
+63,EMP-12165,2022-04-02,Better Opportunity,3,3,True
+64,EMP-12806,2021-12-23,Compensation,3,5,False
+65,EMP-10296,2025-07-03,Compensation,3,3,False
+66,EMP-12263,2021-01-06,Performance,2,4,False
+67,EMP-12857,2022-11-08,Better Opportunity,3,3,False
+68,EMP-11582,2024-08-07,Career Change,3,4,True
+69,EMP-12635,2025-11-30,Better Opportunity,5,5,True
+70,EMP-11342,2025-02-22,Relocation,4,4,False
+71,EMP-11868,2024-02-22,Relocation,3,5,False
+72,EMP-12085,2024-01-14,Relocation,3,3,False
+73,EMP-11677,2025-04-29,Relocation,5,3,True
+74,EMP-12087,2023-04-18,Performance,3,3,False
+75,EMP-13229,2024-07-12,Compensation,4,4,True
+76,EMP-11878,2025-08-13,Compensation,3,3,False
+77,EMP-12197,2023-07-27,Career Change,4,5,True
+78,EMP-12353,2023-08-25,Restructuring,4,4,False
+79,EMP-11308,2025-07-02,Career Change,4,4,False
+80,EMP-12219,2023-07-30,Family Reasons,3,3,True
+81,EMP-10679,2023-01-27,Family Reasons,3,3,False
+82,EMP-10833,2024-12-24,Better Opportunity,3,1,True
+83,EMP-10666,2024-06-18,Compensation,4,3,False
+84,EMP-13294,2024-11-20,Family Reasons,3,3,True
+85,EMP-11836,2023-07-06,Relocation,3,4,False
+86,EMP-10901,2022-06-12,Relocation,4,5,True
+87,EMP-13124,2023-08-07,Retirement,3,3,True
+88,EMP-10468,2024-06-09,Family Reasons,2,4,True
+89,EMP-12196,2020-10-28,Family Reasons,4,4,False
+90,EMP-13275,2025-10-07,Compensation,3,4,True
+91,EMP-12398,2024-08-18,Policy Violation,1,3,False
+92,EMP-10447,2024-03-27,Performance,2,5,False
+93,EMP-11555,2024-10-07,Restructuring,2,2,True
+94,EMP-13118,2025-12-04,Relocation,3,4,True
+95,EMP-10412,2024-04-06,Retirement,3,3,True
+96,EMP-11719,2024-11-07,Family Reasons,4,4,False
+97,EMP-11366,2024-07-15,Family Reasons,3,5,True
+98,EMP-10908,2024-09-27,Better Opportunity,4,3,False
+99,EMP-12053,2025-03-11,Relocation,3,3,False
+100,EMP-11533,2025-04-05,Family Reasons,3,3,True
+101,EMP-11314,2022-06-04,Relocation,5,2,False
+102,EMP-10336,2025-11-16,Better Opportunity,4,3,True
+103,EMP-12688,2025-10-10,Restructuring,3,2,True
+104,EMP-12509,2025-09-13,Better Opportunity,3,5,True
+105,EMP-13106,2025-01-13,Better Opportunity,3,3,True
+106,EMP-12717,2025-09-03,Relocation,3,5,False
+107,EMP-12081,2023-03-25,Restructuring,3,5,True
+108,EMP-11907,2021-02-16,Family Reasons,4,4,True
+109,EMP-10628,2023-03-07,Restructuring,2,4,False
+110,EMP-12193,2020-07-22,Family Reasons,3,4,False
+111,EMP-10265,2024-01-26,Career Change,4,1,True
+112,EMP-10938,2025-09-06,Better Opportunity,4,3,True
+113,EMP-11779,2024-03-07,Compensation,3,2,False
+114,EMP-12365,2024-05-16,Career Change,4,4,True
+115,EMP-11242,2022-02-12,Retirement,3,5,True
+116,EMP-10087,2023-02-22,Performance,2,4,False
+117,EMP-12469,2024-06-11,Retirement,3,1,False
+118,EMP-12389,2022-06-23,Compensation,4,2,False
+119,EMP-10113,2022-12-15,Compensation,3,3,False
+120,EMP-11244,2022-12-05,Performance,3,2,False
+121,EMP-12791,2020-06-03,Performance,2,3,False
+122,EMP-11007,2022-06-14,Career Change,5,3,False
+123,EMP-12849,2022-09-08,Better Opportunity,4,4,True
+124,EMP-10689,2023-06-17,Compensation,4,4,True
+125,EMP-12175,2024-06-11,Compensation,4,3,True
+126,EMP-13095,2021-08-29,Restructuring,1,2,False
+127,EMP-11094,2025-07-28,Compensation,4,5,False
+128,EMP-13291,2025-07-20,Performance,2,2,False
+129,EMP-12387,2025-04-02,Retirement,4,1,False
+130,EMP-10650,2022-11-25,Retirement,4,1,False
+131,EMP-10160,2020-09-14,Restructuring,2,2,False
+132,EMP-10702,2025-06-27,Retirement,4,3,False
+133,EMP-13264,2025-07-10,Family Reasons,3,3,False
+134,EMP-12968,2024-06-26,Restructuring,2,3,False
+135,EMP-12984,2024-02-29,Family Reasons,3,3,False
+136,EMP-12863,2020-09-04,Relocation,3,3,True
+137,EMP-12356,2025-03-24,Policy Violation,3,1,False
+138,EMP-11838,2025-02-21,Better Opportunity,4,3,True
+139,EMP-11480,2024-12-25,Retirement,3,2,False
+140,EMP-10130,2022-05-17,Restructuring,1,2,False
+141,EMP-10139,2021-04-18,Retirement,3,3,False
+142,EMP-11805,2024-08-17,Family Reasons,2,2,True
+143,EMP-10839,2025-03-27,Relocation,3,3,True
+144,EMP-12345,2024-04-14,Relocation,3,3,False
+145,EMP-11974,2023-06-15,Relocation,4,3,False
+146,EMP-11542,2022-09-29,Compensation,5,3,False
+147,EMP-10240,2024-10-16,Restructuring,1,2,False
+148,EMP-12079,2024-04-02,Career Change,3,3,False
+149,EMP-10198,2025-08-16,Policy Violation,3,4,False
+150,EMP-10674,2023-05-14,Relocation,4,3,True
+151,EMP-10922,2024-01-12,Better Opportunity,3,4,True
+152,EMP-12651,2023-06-14,Family Reasons,3,3,False
+153,EMP-10164,2025-08-03,Better Opportunity,3,5,False
+154,EMP-10594,2020-02-22,Career Change,3,5,True
+155,EMP-11597,2024-05-17,Better Opportunity,3,4,True
+156,EMP-10793,2021-03-05,Compensation,4,2,False
+157,EMP-11992,2025-06-11,Restructuring,4,1,False
+158,EMP-13249,2023-05-27,Family Reasons,3,2,False
+159,EMP-10737,2024-01-12,Career Change,4,3,True
+160,EMP-10664,2025-08-31,Compensation,3,3,False
+161,EMP-12748,2022-08-29,Retirement,3,3,False
+162,EMP-13263,2025-06-28,Retirement,5,2,False
+163,EMP-12258,2024-11-29,Relocation,3,4,True
+164,EMP-12828,2025-04-17,Retirement,2,5,True
+165,EMP-13018,2025-10-22,Relocation,4,4,True
+166,EMP-10770,2022-03-17,Family Reasons,3,3,True
+167,EMP-11541,2024-06-09,Family Reasons,4,4,True
+168,EMP-13059,2024-12-25,Career Change,4,5,False
+169,EMP-11483,2025-10-04,Relocation,3,3,True
+170,EMP-10148,2022-06-10,Career Change,4,4,True
+171,EMP-12555,2025-01-09,Compensation,3,5,True
+172,EMP-11117,2024-10-23,Performance,2,3,False
+173,EMP-11943,2021-06-13,Relocation,3,3,False
+174,EMP-10545,2023-02-13,Family Reasons,1,5,False
+175,EMP-13132,2022-03-24,Restructuring,2,3,True
+176,EMP-12581,2024-02-06,Policy Violation,3,4,False
+177,EMP-11347,2025-05-18,Restructuring,2,4,False
+178,EMP-11643,2022-07-16,Compensation,4,2,True
+179,EMP-10626,2024-11-15,Family Reasons,3,2,True
+180,EMP-13013,2023-11-16,Compensation,4,5,True
+181,EMP-11402,2025-10-15,Family Reasons,3,4,False
+182,EMP-10724,2024-08-25,Relocation,3,3,False
+183,EMP-12092,2024-10-28,Relocation,3,4,True
+184,EMP-10923,2025-12-13,Restructuring,1,4,False
+185,EMP-12938,2023-07-29,Compensation,4,2,False
+186,EMP-11981,2025-12-03,Restructuring,1,3,True
+187,EMP-11721,2025-07-16,Better Opportunity,3,4,True
+188,EMP-11927,2025-10-26,Policy Violation,2,3,True
+189,EMP-11637,2025-12-05,Family Reasons,4,2,False
+190,EMP-10199,2024-10-15,Career Change,3,5,False
+191,EMP-10782,2022-11-29,Family Reasons,4,3,True
+192,EMP-10798,2024-07-22,Performance,2,3,False
+193,EMP-10662,2024-04-07,Retirement,4,2,False
+194,EMP-11248,2024-11-29,Relocation,3,2,False
+195,EMP-10400,2024-09-27,Retirement,3,2,True
+196,EMP-12063,2021-04-26,Performance,1,2,False
+197,EMP-11153,2025-01-23,Performance,4,3,True
+198,EMP-13101,2025-10-09,Policy Violation,1,3,False
+199,EMP-12761,2025-10-28,Performance,3,2,False
+200,EMP-12409,2025-05-24,Career Change,5,4,True
+201,EMP-10634,2025-07-21,Compensation,4,2,True
+202,EMP-10657,2022-04-08,Family Reasons,5,3,True
+203,EMP-12117,2024-09-28,Career Change,4,4,False
+204,EMP-10871,2025-02-17,Family Reasons,4,2,False
+205,EMP-12438,2025-01-05,Career Change,2,2,False
+206,EMP-12185,2021-12-03,Retirement,1,3,False
+207,EMP-12128,2020-08-28,Family Reasons,4,1,True
+208,EMP-10268,2021-12-23,Policy Violation,2,4,False
+209,EMP-10220,2025-02-03,Family Reasons,2,3,True
+210,EMP-12997,2021-09-14,Career Change,4,3,False
+211,EMP-11463,2025-04-10,Relocation,3,3,False
+212,EMP-10273,2025-02-20,Career Change,3,4,True
+213,EMP-13140,2023-12-14,Restructuring,2,3,False
+214,EMP-13245,2023-10-31,Policy Violation,3,3,False
+215,EMP-12925,2023-05-05,Retirement,2,2,True
+216,EMP-10758,2023-03-13,Career Change,3,3,True
+217,EMP-11120,2025-07-13,Performance,2,2,False
+218,EMP-10955,2025-02-15,Career Change,4,3,True
+219,EMP-11370,2023-05-08,Family Reasons,5,3,False
+220,EMP-11809,2023-10-07,Relocation,4,2,True
+221,EMP-11343,2025-11-25,Relocation,3,4,True
+222,EMP-11651,2022-12-14,Policy Violation,1,2,True
+223,EMP-10766,2023-04-18,Career Change,3,3,True
+224,EMP-10448,2025-05-26,Performance,3,3,True
+225,EMP-12471,2025-01-01,Career Change,4,3,True
+226,EMP-12882,2024-09-04,Policy Violation,1,3,False
+227,EMP-11689,2024-03-23,Restructuring,3,2,False
+228,EMP-10725,2023-01-27,Policy Violation,3,3,False
+229,EMP-11200,2023-06-14,Policy Violation,2,3,True
+230,EMP-10589,2022-10-17,Retirement,4,2,False
+231,EMP-12388,2023-08-24,Relocation,4,3,False
+232,EMP-12895,2023-12-14,Better Opportunity,4,4,False
+233,EMP-10755,2025-02-10,Retirement,4,2,True
+234,EMP-11238,2024-06-18,Relocation,3,3,False
+235,EMP-13281,2020-04-02,Career Change,1,1,True
+236,EMP-10611,2025-09-16,Better Opportunity,3,3,True
+237,EMP-11824,2024-06-17,Policy Violation,1,5,False
+238,EMP-11886,2021-04-29,Relocation,4,4,False
+239,EMP-10556,2024-10-10,Retirement,3,2,True
+240,EMP-10410,2024-08-21,Restructuring,1,3,False
+241,EMP-10008,2021-11-29,Policy Violation,3,2,False
+242,EMP-11804,2025-02-24,Retirement,4,3,True
+243,EMP-12922,2024-05-10,Better Opportunity,4,3,True
+244,EMP-11593,2024-08-26,Family Reasons,4,4,False
+245,EMP-12093,2025-04-12,Retirement,3,2,False
+246,EMP-11265,2025-11-03,Performance,1,2,False
+247,EMP-10074,2021-12-22,Relocation,4,3,True
+248,EMP-10342,2024-01-11,Compensation,4,1,True
+249,EMP-12500,2025-05-13,Performance,3,1,False
+250,EMP-12786,2024-09-18,Better Opportunity,5,1,True
+251,EMP-10625,2025-10-14,Compensation,4,3,True
+252,EMP-10062,2024-04-04,Relocation,4,4,False
+253,EMP-10485,2023-12-11,Retirement,3,3,True
+254,EMP-11332,2024-06-27,Policy Violation,2,4,False
+255,EMP-10750,2025-10-31,Compensation,3,2,False
+256,EMP-11444,2024-01-07,Retirement,4,4,True
+257,EMP-12265,2022-04-01,Compensation,2,3,True
+258,EMP-11823,2025-08-21,Retirement,3,3,False
+259,EMP-11751,2022-04-14,Relocation,3,4,True
+260,EMP-11616,2021-07-17,Retirement,5,3,True
+261,EMP-11526,2025-01-01,Compensation,4,4,False
+262,EMP-12381,2022-04-20,Better Opportunity,4,2,True
+263,EMP-11303,2023-04-19,Family Reasons,4,3,True
+264,EMP-11221,2024-10-15,Career Change,3,4,False
+265,EMP-13116,2022-05-15,Family Reasons,2,4,True
+266,EMP-10358,2024-03-10,Relocation,5,2,True
+267,EMP-10999,2024-07-11,Better Opportunity,1,2,False
+268,EMP-10147,2025-01-27,Compensation,2,4,True
+269,EMP-10532,2023-11-18,Compensation,2,3,False
+270,EMP-12884,2024-04-21,Relocation,4,1,False
+271,EMP-10816,2024-10-23,Policy Violation,2,3,False
+272,EMP-10645,2024-03-25,Relocation,3,5,True
+273,EMP-11737,2022-01-01,Compensation,2,5,False
+274,EMP-11429,2025-12-13,Restructuring,2,5,False
+275,EMP-11821,2023-06-14,Compensation,3,2,True
+276,EMP-12088,2023-08-27,Family Reasons,2,3,True
+277,EMP-12822,2022-08-22,Relocation,3,1,True
+278,EMP-12662,2023-01-28,Compensation,3,5,True
+279,EMP-12920,2025-12-26,Compensation,3,3,False
+280,EMP-13170,2025-11-21,Career Change,4,2,True
+281,EMP-13076,2024-01-21,Better Opportunity,4,3,True
+282,EMP-12700,2023-11-23,Compensation,2,4,False
+283,EMP-10325,2024-04-08,Retirement,2,3,False
+284,EMP-10233,2025-03-19,Family Reasons,3,4,True
+285,EMP-12517,2024-07-10,Relocation,2,3,False
+286,EMP-12476,2021-11-06,Family Reasons,4,3,False
+287,EMP-13282,2022-01-28,Relocation,5,2,True
+288,EMP-12497,2023-06-22,Career Change,5,4,False
+289,EMP-10267,2025-02-01,Retirement,3,3,True
+290,EMP-12123,2021-09-27,Career Change,4,1,True
+291,EMP-11325,2024-08-18,Compensation,3,2,False
+292,EMP-11485,2022-08-14,Career Change,3,4,True
+293,EMP-10979,2024-05-28,Restructuring,3,2,False
+294,EMP-11946,2025-10-26,Retirement,4,5,True
+295,EMP-11440,2024-08-05,Better Opportunity,3,5,False
+296,EMP-11531,2024-06-26,Relocation,3,3,False
+297,EMP-10811,2023-08-21,Compensation,2,3,False
+298,EMP-11843,2025-10-12,Policy Violation,2,3,False
+299,EMP-12031,2023-04-07,Compensation,2,3,True
+300,EMP-13206,2020-05-16,Policy Violation,4,5,True
+301,EMP-10675,2024-09-16,Retirement,5,2,False
+302,EMP-12648,2025-06-15,Better Opportunity,3,4,True
+303,EMP-13185,2025-09-05,Better Opportunity,1,2,True
+304,EMP-10541,2024-01-12,Better Opportunity,3,3,True
+305,EMP-12017,2023-05-28,Career Change,4,4,False
+306,EMP-11457,2024-04-02,Compensation,4,2,False
+307,EMP-10496,2024-05-28,Compensation,4,4,True
+308,EMP-13261,2024-05-19,Retirement,4,3,True
+309,EMP-10753,2025-07-17,Policy Violation,4,2,False
+310,EMP-10089,2025-06-24,Family Reasons,3,2,True
+311,EMP-12045,2020-03-06,Better Opportunity,4,3,True
+312,EMP-10047,2025-06-08,Relocation,4,3,True
+313,EMP-13167,2023-12-18,Career Change,5,1,False
+314,EMP-10068,2021-07-22,Relocation,5,5,False
+315,EMP-10311,2022-10-17,Performance,3,2,False
+316,EMP-12826,2023-04-10,Retirement,3,3,True
+317,EMP-11774,2023-10-31,Career Change,3,1,True
+318,EMP-11666,2025-10-29,Family Reasons,3,4,False
+319,EMP-12288,2021-06-03,Better Opportunity,2,2,True
+320,EMP-11184,2023-04-29,Retirement,2,3,True
+321,EMP-10388,2020-11-21,Performance,1,4,False
+322,EMP-12024,2024-02-04,Relocation,3,3,False
+323,EMP-12051,2025-10-15,Retirement,4,3,False
+324,EMP-11568,2025-07-08,Better Opportunity,1,4,True
+325,EMP-11369,2022-12-07,Relocation,3,4,True
+326,EMP-12264,2023-01-01,Performance,3,4,False
+327,EMP-12598,2024-12-23,Performance,2,4,True
+328,EMP-10349,2023-01-04,Retirement,2,2,False
+329,EMP-10514,2022-08-13,Career Change,3,3,False
+330,EMP-11997,2025-11-12,Better Opportunity,2,2,True
+331,EMP-13179,2024-02-16,Career Change,3,4,True
+332,EMP-11046,2023-03-05,Relocation,4,2,False
+333,EMP-12751,2025-07-15,Retirement,3,3,False
+334,EMP-10829,2023-07-04,Family Reasons,4,1,False
+335,EMP-12804,2023-05-31,Relocation,4,3,True
+336,EMP-11918,2025-07-29,Restructuring,1,2,False
+337,EMP-10497,2025-12-26,Better Opportunity,3,5,False
+338,EMP-11489,2025-12-01,Better Opportunity,4,3,False
+339,EMP-10271,2021-07-30,Family Reasons,4,4,True
+340,EMP-11767,2023-07-16,Better Opportunity,2,4,True
+341,EMP-11395,2022-03-21,Relocation,2,2,True
+342,EMP-12625,2023-10-22,Better Opportunity,3,5,True
+343,EMP-11775,2025-05-02,Retirement,2,1,False
+344,EMP-12768,2025-07-22,Policy Violation,2,5,False
+345,EMP-12904,2024-11-09,Better Opportunity,4,3,True
+346,EMP-12467,2025-01-18,Family Reasons,5,2,True
+347,EMP-10741,2024-09-13,Retirement,3,1,False
+348,EMP-12296,2025-04-19,Performance,2,3,False
+349,EMP-12614,2025-09-29,Policy Violation,2,4,False
+350,EMP-11515,2023-07-13,Retirement,4,3,True
+351,EMP-12155,2025-04-21,Career Change,2,3,False
+352,EMP-13138,2025-05-05,Better Opportunity,4,2,False
+353,EMP-10670,2024-02-09,Performance,3,3,False
+354,EMP-12514,2025-11-13,Relocation,4,3,False
+355,EMP-12737,2024-02-16,Better Opportunity,3,4,True
+356,EMP-10000,2024-03-11,Better Opportunity,4,4,False
+357,EMP-10550,2024-03-30,Family Reasons,4,2,True
+358,EMP-12628,2023-11-22,Compensation,4,3,True
+359,EMP-12481,2024-09-13,Career Change,4,2,True
+360,EMP-11205,2025-11-19,Family Reasons,4,2,False
+361,EMP-11830,2025-08-12,Performance,1,3,False
+362,EMP-13137,2024-09-27,Family Reasons,4,3,False
+363,EMP-11789,2020-11-08,Better Opportunity,2,3,True
+364,EMP-12549,2024-08-18,Family Reasons,4,2,True
+365,EMP-10847,2025-11-17,Better Opportunity,4,2,True
+366,EMP-11659,2020-04-24,Performance,2,1,False
+367,EMP-12686,2024-06-30,Career Change,3,2,False
+368,EMP-10643,2023-01-14,Policy Violation,3,2,False
+369,EMP-13070,2025-11-28,Performance,2,4,False
+370,EMP-12875,2023-03-07,Better Opportunity,4,4,False
+371,EMP-12433,2023-03-19,Retirement,1,2,False
+372,EMP-11939,2021-03-03,Career Change,4,2,False
+373,EMP-11213,2024-11-18,Policy Violation,4,3,False
+374,EMP-10337,2025-05-04,Career Change,5,3,False
+375,EMP-11952,2024-12-24,Retirement,4,3,False
+376,EMP-13081,2023-07-14,Performance,3,3,True
+377,EMP-12414,2025-07-16,Family Reasons,4,1,True
+378,EMP-11399,2024-04-07,Retirement,3,3,True
+379,EMP-11700,2025-03-18,Family Reasons,5,3,True
+380,EMP-12058,2021-05-13,Performance,1,2,False
+381,EMP-10897,2021-09-16,Relocation,4,5,False
+382,EMP-12908,2025-11-07,Better Opportunity,2,3,True
+383,EMP-10239,2022-03-31,Restructuring,1,3,False
+384,EMP-12502,2025-06-08,Restructuring,1,2,False
+385,EMP-10564,2024-08-17,Better Opportunity,3,4,False
+386,EMP-11589,2022-08-26,Performance,4,2,True
+387,EMP-12981,2024-02-22,Better Opportunity,3,3,False
+388,EMP-10579,2022-12-04,Compensation,2,3,False
+389,EMP-10510,2024-05-28,Compensation,1,2,True
+390,EMP-11806,2020-05-31,Relocation,4,2,True
+391,EMP-10796,2023-12-31,Relocation,4,4,True
+392,EMP-12370,2022-09-23,Relocation,4,3,True
+393,EMP-11742,2022-06-17,Family Reasons,3,3,True
+394,EMP-12361,2020-04-08,Performance,4,4,False
+395,EMP-10629,2025-10-14,Relocation,4,3,False
+396,EMP-12826,2023-04-10,Retirement,4,4,True
+397,EMP-10700,2022-11-11,Career Change,5,3,True
+398,EMP-10844,2021-08-01,Family Reasons,4,3,True
+399,EMP-11901,2023-05-25,Retirement,4,2,False
+400,EMP-12255,2025-01-05,Relocation,4,2,False
+401,EMP-12714,2024-06-28,Retirement,3,4,True
+402,EMP-12910,2024-09-01,Performance,2,3,False
+403,EMP-12810,2023-01-04,Restructuring,2,4,False
+404,EMP-12399,2025-10-08,Relocation,5,2,False
+405,EMP-12837,2022-01-15,Career Change,4,4,True
+406,EMP-11860,2025-10-02,Career Change,5,4,False
+407,EMP-12654,2024-09-28,Better Opportunity,4,1,True
+408,EMP-12936,2024-01-24,Compensation,4,4,True
+409,EMP-10921,2024-04-11,Career Change,3,3,True
+410,EMP-12501,2023-08-01,Compensation,3,3,False
+411,EMP-11994,2023-07-19,Policy Violation,1,3,False
+412,EMP-12321,2020-08-21,Family Reasons,2,4,False
+413,EMP-11995,2024-09-01,Policy Violation,1,1,False
+414,EMP-10338,2022-03-29,Family Reasons,5,2,True
+415,EMP-10801,2025-04-10,Better Opportunity,3,4,True
+416,EMP-12604,2025-03-29,Relocation,3,4,False
+417,EMP-11313,2023-09-20,Retirement,2,3,False
+418,EMP-13271,2024-08-14,Restructuring,2,4,False
+419,EMP-11367,2025-10-03,Career Change,5,4,True
+420,EMP-12349,2022-02-16,Policy Violation,2,2,False
+421,EMP-11039,2023-04-07,Compensation,3,4,False
+422,EMP-13107,2024-10-13,Career Change,5,3,True
+423,EMP-12607,2022-05-28,Relocation,3,4,True
+424,EMP-10282,2022-02-03,Career Change,3,4,True
+425,EMP-12436,2024-05-31,Better Opportunity,4,3,False
+426,EMP-11965,2023-03-09,Performance,1,5,False
+427,EMP-10575,2023-06-06,Performance,1,2,False
+428,EMP-10957,2023-08-03,Career Change,5,3,False
+429,EMP-13168,2024-01-04,Restructuring,2,4,False
+430,EMP-12106,2025-06-09,Retirement,4,1,True
+431,EMP-10072,2024-08-16,Compensation,2,4,True
+432,EMP-12554,2024-12-05,Career Change,5,3,False
+433,EMP-12589,2022-06-28,Compensation,3,4,True
+434,EMP-12400,2023-12-18,Compensation,2,3,True
+435,EMP-10907,2024-06-09,Better Opportunity,4,3,True
+436,EMP-11807,2025-09-10,Family Reasons,4,3,True
+437,EMP-10306,2023-07-27,Career Change,4,5,False
+438,EMP-12697,2020-01-22,Career Change,4,5,False
+439,EMP-10370,2025-02-18,Better Opportunity,4,5,True
+440,EMP-12869,2023-06-29,Career Change,3,2,True
+441,EMP-12987,2025-08-24,Compensation,4,3,False
+442,EMP-12542,2025-01-20,Career Change,5,4,True
+443,EMP-11995,2024-09-01,Policy Violation,3,3,False
+444,EMP-12007,2025-05-03,Policy Violation,4,4,False
+445,EMP-11576,2024-12-04,Better Opportunity,4,5,False
+446,EMP-10260,2021-09-29,Family Reasons,5,4,True
+447,EMP-12966,2024-01-02,Career Change,4,2,True
+448,EMP-10547,2022-10-01,Family Reasons,4,3,False
+449,EMP-12146,2022-04-30,Policy Violation,1,2,False
+450,EMP-11915,2021-08-09,Career Change,4,3,False
+451,EMP-10014,2023-11-25,Relocation,3,3,True
+452,EMP-12993,2025-11-05,Career Change,3,3,False
+453,EMP-12643,2025-04-30,Retirement,3,2,False
+454,EMP-11937,2023-04-22,Relocation,3,2,True
+455,EMP-10519,2024-11-26,Better Opportunity,5,3,False
+456,EMP-13104,2023-05-15,Compensation,4,3,True
+457,EMP-10943,2025-03-27,Retirement,1,3,True
+458,EMP-11546,2021-10-14,Family Reasons,5,4,False
+459,EMP-10951,2024-03-02,Retirement,3,2,False
+460,EMP-12802,2020-12-10,Relocation,4,3,True
+461,EMP-12932,2025-12-04,Performance,2,5,True
+462,EMP-12150,2024-11-14,Performance,3,3,False
+463,EMP-11028,2025-01-14,Compensation,4,3,True
+464,EMP-12762,2024-03-01,Relocation,5,3,True
+465,EMP-10792,2025-11-16,Policy Violation,3,5,False
+466,EMP-12444,2023-05-01,Policy Violation,1,5,False
+467,EMP-12115,2025-02-20,Better Opportunity,5,3,False
+468,EMP-10880,2023-07-30,Retirement,4,4,True
+469,EMP-11223,2023-07-09,Performance,3,3,False
+470,EMP-10263,2024-04-04,Better Opportunity,4,3,True
+471,EMP-13252,2022-10-17,Family Reasons,2,3,True
+472,EMP-11441,2021-07-07,Performance,2,4,False
+473,EMP-12899,2025-11-08,Family Reasons,3,4,True
+474,EMP-13043,2024-04-03,Retirement,4,2,True
+475,EMP-11989,2021-06-07,Family Reasons,4,5,True
+476,EMP-10681,2025-02-12,Family Reasons,2,2,False
+477,EMP-12798,2025-12-09,Performance,1,5,False
+478,EMP-12726,2024-04-23,Restructuring,3,3,False
+479,EMP-12039,2023-09-20,Family Reasons,3,2,True
+480,EMP-11812,2025-03-23,Compensation,4,2,True
+481,EMP-11693,2025-06-09,Performance,3,3,True
+482,EMP-13172,2025-09-05,Compensation,5,1,True
+483,EMP-11128,2024-08-24,Relocation,4,3,True
+484,EMP-11787,2023-12-16,Restructuring,3,3,False
+485,EMP-13296,2025-07-24,Compensation,4,3,False
+486,EMP-11796,2025-03-25,Performance,3,5,False
+487,EMP-10424,2025-10-19,Performance,3,3,False
+488,EMP-12735,2024-03-08,Career Change,3,4,False
+489,EMP-11029,2025-08-14,Family Reasons,5,4,True
+490,EMP-10821,2024-01-04,Career Change,4,4,False
+491,EMP-11858,2022-01-10,Career Change,2,4,True
+492,EMP-11917,2024-07-09,Policy Violation,5,3,False
+493,EMP-11062,2025-05-04,Compensation,3,2,False
+494,EMP-10128,2020-12-26,Compensation,2,3,True
+495,EMP-10210,2023-09-20,Family Reasons,2,3,False
+496,EMP-10423,2022-07-25,Relocation,2,4,True
+497,EMP-10127,2023-07-29,Career Change,5,5,False
+498,EMP-10905,2023-04-26,Family Reasons,1,4,True
+499,EMP-12247,2024-06-15,Restructuring,3,4,False
+500,EMP-11032,2025-03-13,Career Change,3,2,False
+501,EMP-10118,2022-09-08,Restructuring,2,4,False
+502,EMP-12919,2024-05-17,Family Reasons,3,3,True
+503,EMP-12782,2025-03-17,Compensation,2,4,True
+504,EMP-11345,2024-03-04,Better Opportunity,4,4,False
+505,EMP-11364,2022-09-05,Retirement,5,5,True
+506,EMP-12659,2022-04-19,Career Change,3,4,False
+507,EMP-12744,2025-11-21,Restructuring,3,4,False
+508,EMP-12326,2022-08-18,Retirement,4,2,True
+509,EMP-11167,2023-07-16,Better Opportunity,2,4,False
+510,EMP-12027,2025-12-06,Relocation,2,3,False
+511,EMP-13039,2024-12-30,Retirement,2,2,True
+512,EMP-11004,2023-04-23,Family Reasons,4,1,True
+513,EMP-12077,2023-02-10,Career Change,3,4,False
+514,EMP-13134,2025-05-07,Career Change,5,4,False
+515,EMP-10886,2022-08-02,Restructuring,3,4,False
+516,EMP-11816,2025-10-30,Compensation,3,1,False
+517,EMP-10048,2023-06-10,Career Change,3,3,False
+518,EMP-11941,2025-03-23,Compensation,3,4,False
+519,EMP-12463,2024-07-27,Retirement,3,2,False
+520,EMP-11357,2025-12-03,Restructuring,2,3,False
+521,EMP-10857,2025-03-02,Compensation,3,5,True
+522,EMP-13209,2024-04-11,Better Opportunity,2,3,True
+523,EMP-11302,2025-07-06,Restructuring,5,3,False
+524,EMP-12803,2025-05-04,Relocation,3,3,True
+525,EMP-12191,2023-06-03,Relocation,4,4,True
+526,EMP-11109,2021-09-13,Retirement,3,3,False
+527,EMP-10711,2024-01-03,Career Change,2,5,True
+528,EMP-11472,2020-09-13,Restructuring,1,2,False
+529,EMP-13060,2025-10-17,Retirement,4,2,True
+530,EMP-10119,2023-03-22,Retirement,4,3,False
+531,EMP-10111,2023-06-08,Family Reasons,3,3,False
+532,EMP-11251,2024-08-04,Policy Violation,1,4,False
+533,EMP-11066,2022-07-24,Retirement,4,3,False
+534,EMP-11529,2023-01-25,Relocation,4,3,False
+535,EMP-12784,2022-07-15,Relocation,3,2,True
+536,EMP-12129,2024-07-12,Retirement,4,2,True
+537,EMP-13017,2022-04-21,Career Change,4,2,False
+538,EMP-12004,2020-11-08,Better Opportunity,4,3,True
+539,EMP-12898,2023-08-20,Policy Violation,2,3,False
+540,EMP-11271,2025-03-08,Career Change,3,3,True
+541,EMP-12121,2025-09-06,Family Reasons,4,3,False
+542,EMP-13119,2022-02-24,Better Opportunity,3,2,True
+543,EMP-12172,2023-03-28,Career Change,4,2,False
+544,EMP-10720,2023-06-02,Better Opportunity,4,4,True
+545,EMP-12931,2022-08-06,Relocation,4,3,True
+546,EMP-12718,2023-05-04,Relocation,2,3,True
+547,EMP-12330,2023-12-26,Family Reasons,3,2,True
+548,EMP-10459,2025-07-26,Better Opportunity,2,4,False
+549,EMP-12342,2025-02-19,Policy Violation,2,4,True
+550,EMP-12778,2024-10-26,Policy Violation,4,4,True
+551,EMP-10842,2023-05-16,Better Opportunity,4,2,False
+552,EMP-11436,2024-03-25,Retirement,4,3,False
+553,EMP-12539,2024-08-20,Policy Violation,3,2,False
+554,EMP-12571,2025-03-02,Retirement,3,3,True
+555,EMP-10254,2025-03-15,Restructuring,3,3,False
+556,EMP-12974,2024-06-19,Better Opportunity,3,3,True
+557,EMP-10968,2023-06-20,Compensation,2,4,False
+558,EMP-10813,2023-04-18,Restructuring,4,2,True
+559,EMP-12724,2025-06-07,Restructuring,2,2,False
+560,EMP-12861,2025-12-21,Career Change,2,4,True
+561,EMP-12813,2024-03-09,Better Opportunity,5,4,True
+562,EMP-10046,2022-05-01,Family Reasons,3,3,True
+563,EMP-12773,2024-02-05,Retirement,5,3,False
+564,EMP-11898,2024-10-21,Compensation,3,4,False
+565,EMP-10143,2023-11-02,Family Reasons,4,2,False
+566,EMP-13254,2022-02-18,Policy Violation,1,4,False
+567,EMP-12439,2025-08-11,Family Reasons,3,4,True
+568,EMP-13077,2025-08-26,Better Opportunity,3,1,False
+569,EMP-11387,2024-12-31,Retirement,4,4,True
+570,EMP-10287,2023-04-03,Performance,1,2,False
+571,EMP-10293,2025-09-13,Compensation,5,3,True
+572,EMP-12673,2024-03-10,Performance,3,3,False
+573,EMP-10371,2025-06-11,Compensation,4,4,True
+574,EMP-10958,2024-06-30,Retirement,4,4,False
+575,EMP-12297,2022-04-11,Policy Violation,3,3,True
+576,EMP-10961,2025-06-17,Relocation,4,3,False
+577,EMP-10993,2024-07-05,Better Opportunity,2,4,True
+578,EMP-11957,2023-05-18,Family Reasons,5,1,False
+579,EMP-13251,2022-12-19,Retirement,4,3,True
+580,EMP-10509,2023-12-24,Retirement,3,3,True
+581,EMP-10059,2022-07-31,Family Reasons,3,3,True
+582,EMP-11018,2025-02-20,Better Opportunity,3,4,True
+583,EMP-10416,2021-04-07,Retirement,3,1,True
+584,EMP-13230,2024-01-20,Retirement,3,5,False
+585,EMP-12451,2025-01-18,Family Reasons,4,4,False
+586,EMP-10707,2024-11-14,Better Opportunity,4,3,False
+587,EMP-12763,2025-03-15,Better Opportunity,4,3,True
+588,EMP-11554,2024-11-09,Policy Violation,3,3,False
+589,EMP-10373,2021-11-29,Retirement,2,4,True
+590,EMP-10489,2023-11-14,Career Change,3,3,False
+591,EMP-12204,2025-07-04,Relocation,4,5,False
+592,EMP-10013,2024-05-25,Policy Violation,1,4,False
+593,EMP-13299,2024-07-03,Relocation,4,4,True
+594,EMP-10686,2025-08-05,Retirement,5,4,False
+595,EMP-10627,2025-03-23,Retirement,5,2,False
+596,EMP-11295,2024-08-21,Performance,2,3,False
+597,EMP-10241,2025-03-14,Compensation,4,4,False
+598,EMP-12989,2023-02-28,Career Change,3,3,True
+599,EMP-13293,2025-03-26,Career Change,5,2,False
+600,EMP-11929,2023-04-13,Policy Violation,3,4,False
+601,EMP-13158,2025-12-13,Retirement,4,5,True
+602,EMP-11090,2021-12-28,Career Change,3,2,False
+603,EMP-12218,2025-10-02,Career Change,3,3,True
+604,EMP-12672,2025-06-10,Career Change,4,4,True
+605,EMP-11687,2023-10-22,Family Reasons,2,5,False
+606,EMP-11042,2024-09-18,Career Change,3,4,False
+607,EMP-11100,2025-02-06,Compensation,3,4,False
+608,EMP-11344,2025-06-22,Retirement,5,3,False
+609,EMP-13014,2021-10-28,Retirement,2,3,False
+610,EMP-12566,2023-10-30,Retirement,3,3,True
+611,EMP-11856,2022-02-24,Family Reasons,2,2,True
+612,EMP-12707,2022-04-22,Compensation,2,1,False
+613,EMP-13051,2021-12-01,Relocation,3,4,True
+614,EMP-11925,2021-10-05,Retirement,3,4,True
+615,EMP-12384,2025-04-09,Relocation,5,4,True
+616,EMP-11002,2023-11-19,Compensation,3,4,True
+617,EMP-12879,2020-05-16,Performance,2,3,False
+618,EMP-11022,2025-12-04,Policy Violation,4,2,False
+619,EMP-11036,2024-06-11,Retirement,3,2,False
+620,EMP-10669,2024-08-17,Family Reasons,3,3,True
+621,EMP-10289,2024-07-04,Family Reasons,3,4,False
+622,EMP-11356,2025-04-17,Compensation,4,4,False
+623,EMP-12122,2024-12-01,Compensation,4,4,True
+624,EMP-12971,2025-02-12,Compensation,2,2,False
+625,EMP-12125,2023-08-06,Compensation,4,3,True
+626,EMP-12716,2025-10-26,Family Reasons,2,5,True
+627,EMP-10605,2025-07-02,Retirement,4,3,False
+628,EMP-11218,2024-09-03,Family Reasons,4,3,False
+629,EMP-12152,2024-06-02,Career Change,4,3,True
+630,EMP-10731,2020-12-08,Family Reasons,3,5,True
+631,EMP-11158,2022-10-20,Family Reasons,3,4,False
+632,EMP-13222,2024-04-19,Policy Violation,2,2,False
+633,EMP-10077,2024-03-13,Better Opportunity,3,3,True
+634,EMP-11962,2025-08-24,Performance,2,3,False
+635,EMP-10471,2025-01-29,Retirement,4,3,True
+636,EMP-12558,2022-10-12,Family Reasons,2,3,False
+637,EMP-11161,2024-12-28,Compensation,3,5,False
+638,EMP-11009,2025-02-07,Retirement,4,3,False
+639,EMP-13183,2024-08-25,Family Reasons,3,3,False
+640,EMP-10309,2025-04-13,Career Change,1,1,False
+641,EMP-11003,2022-01-28,Compensation,4,4,False
+642,EMP-10902,2020-06-20,Relocation,2,4,False
+643,EMP-10286,2024-12-13,Retirement,4,2,True
+644,EMP-11079,2022-09-06,Performance,2,4,True
+645,EMP-10646,2025-11-14,Better Opportunity,3,2,True
+646,EMP-12982,2025-04-26,Career Change,5,5,False
+647,EMP-10126,2024-05-12,Retirement,4,2,False
+648,EMP-10831,2024-10-04,Relocation,3,2,True
+649,EMP-10224,2022-04-27,Policy Violation,2,4,False
+650,EMP-11668,2023-02-06,Career Change,2,3,False
+651,EMP-10808,2022-12-24,Performance,3,3,False
+652,EMP-11763,2021-01-13,Relocation,2,4,True
+653,EMP-11038,2022-07-14,Retirement,3,4,True
+654,EMP-11550,2025-11-13,Policy Violation,1,3,False
+655,EMP-12329,2025-12-22,Career Change,3,2,False
+656,EMP-12578,2023-11-25,Better Opportunity,2,3,False
+657,EMP-11135,2023-11-04,Better Opportunity,4,3,False
+658,EMP-12297,2022-04-11,Policy Violation,2,4,False
+659,EMP-12396,2024-01-23,Retirement,3,4,True
+660,EMP-10461,2025-01-21,Retirement,4,2,False
+661,EMP-10295,2024-12-07,Better Opportunity,4,3,True
+662,EMP-11749,2024-03-14,Restructuring,3,2,True
+663,EMP-12808,2025-05-01,Restructuring,2,1,False
+664,EMP-10892,2024-04-01,Restructuring,3,4,False
+665,EMP-12754,2024-08-01,Family Reasons,4,3,False
+666,EMP-11933,2024-05-18,Compensation,4,4,False
+667,EMP-12906,2025-09-15,Performance,2,4,False
+668,EMP-13207,2022-03-01,Compensation,3,3,True
+669,EMP-10196,2024-02-08,Retirement,4,2,True
+670,EMP-12280,2024-05-23,Performance,3,3,True
+671,EMP-10526,2025-12-16,Career Change,3,4,False
+672,EMP-12233,2025-09-25,Restructuring,2,2,False
+673,EMP-10616,2024-02-08,Career Change,2,3,False
+674,EMP-12059,2025-07-24,Career Change,3,4,False
+675,EMP-11986,2025-09-06,Compensation,3,2,True
+676,EMP-10091,2023-07-13,Better Opportunity,4,4,True
+677,EMP-10982,2025-02-18,Relocation,4,3,True
+678,EMP-10820,2020-08-14,Relocation,4,2,False
+679,EMP-11736,2025-08-01,Retirement,4,3,True
+680,EMP-13067,2024-12-16,Relocation,2,2,True
+681,EMP-11842,2025-04-24,Family Reasons,3,2,True
+682,EMP-12606,2025-11-29,Performance,1,4,False
+683,EMP-13190,2022-01-21,Better Opportunity,3,4,True
+684,EMP-10534,2023-10-02,Better Opportunity,5,4,True
+685,EMP-10066,2025-02-21,Retirement,2,2,True
+686,EMP-10864,2023-06-22,Compensation,4,4,False
+687,EMP-13144,2025-09-09,Career Change,5,2,True
+688,EMP-12110,2024-05-23,Relocation,2,3,False
+689,EMP-10300,2025-12-01,Compensation,5,2,True
+690,EMP-12270,2024-01-17,Policy Violation,1,4,False
+691,EMP-12538,2020-09-20,Compensation,4,3,True
+692,EMP-11876,2021-10-10,Family Reasons,4,5,False
+693,EMP-12789,2023-02-18,Family Reasons,3,2,True
+694,EMP-11610,2023-04-27,Performance,1,2,True
+695,EMP-12638,2025-12-05,Family Reasons,5,4,False
+696,EMP-12090,2023-03-22,Policy Violation,3,2,False
+697,EMP-10278,2025-07-14,Relocation,4,5,False
+698,EMP-10345,2025-05-30,Family Reasons,2,4,False
+699,EMP-12390,2025-07-31,Family Reasons,4,2,False
+700,EMP-10997,2024-07-14,Family Reasons,3,5,False
+701,EMP-11448,2025-07-21,Relocation,5,2,True
+702,EMP-12644,2023-11-13,Career Change,3,4,False
+703,EMP-10058,2022-03-11,Family Reasons,4,3,True
+704,EMP-12872,2021-12-07,Compensation,2,3,True
+705,EMP-12687,2024-06-04,Compensation,3,2,True
+706,EMP-11498,2024-08-29,Retirement,2,4,True
+707,EMP-10859,2024-01-07,Relocation,4,3,False
+708,EMP-12244,2025-01-18,Performance,1,5,False
+709,EMP-12839,2025-06-05,Career Change,3,3,False
+710,EMP-12988,2021-12-31,Performance,3,4,False
+711,EMP-11392,2022-09-26,Restructuring,2,3,False
+712,EMP-11456,2022-04-02,Better Opportunity,4,1,True
+713,EMP-11698,2025-08-02,Family Reasons,5,1,False
+714,EMP-10978,2024-02-04,Policy Violation,4,4,False
+715,EMP-10762,2025-12-14,Compensation,4,3,False
+716,EMP-12725,2023-09-29,Compensation,3,3,False
+717,EMP-11405,2022-07-05,Career Change,3,5,False
+718,EMP-12649,2024-12-07,Family Reasons,2,5,True
+719,EMP-10354,2025-10-07,Retirement,3,3,True
+720,EMP-12950,2022-10-31,Family Reasons,3,5,False
+721,EMP-11264,2024-08-23,Career Change,2,1,False
+722,EMP-12065,2025-03-02,Better Opportunity,3,3,True
+723,EMP-10535,2021-12-29,Better Opportunity,3,3,False
+724,EMP-11226,2025-12-25,Better Opportunity,4,2,True
+725,EMP-13279,2023-08-03,Retirement,4,2,False
+726,EMP-13123,2023-07-16,Retirement,4,4,True
+727,EMP-12730,2020-08-19,Compensation,4,4,True
+728,EMP-11604,2025-06-17,Career Change,4,1,True
+729,EMP-10451,2025-11-03,Restructuring,2,3,True
+730,EMP-11373,2025-12-28,Family Reasons,2,3,True
+731,EMP-11258,2025-06-25,Compensation,1,2,True
+732,EMP-11361,2023-07-05,Relocation,3,4,True
+733,EMP-11069,2025-01-12,Better Opportunity,2,5,True
+734,EMP-12844,2022-04-14,Restructuring,2,3,False
+735,EMP-11919,2025-07-17,Relocation,4,1,False
+736,EMP-10572,2025-01-30,Career Change,4,3,True
+737,EMP-10896,2023-09-28,Better Opportunity,3,4,False
+738,EMP-11516,2025-05-31,Family Reasons,2,3,False
+739,EMP-12487,2024-06-02,Career Change,3,3,False
+740,EMP-12902,2024-01-03,Better Opportunity,3,2,True
+741,EMP-11904,2025-10-05,Career Change,3,3,False
+742,EMP-11815,2023-12-23,Retirement,3,2,False
+743,EMP-10850,2021-03-12,Restructuring,3,4,True
+744,EMP-13159,2025-12-24,Better Opportunity,4,3,False
+745,EMP-12348,2020-09-14,Compensation,2,3,False
+746,EMP-10570,2023-02-28,Performance,3,3,False
+747,EMP-10554,2020-12-04,Policy Violation,2,2,False
+748,EMP-12105,2024-11-15,Better Opportunity,4,4,True
+749,EMP-10230,2021-09-21,Career Change,3,4,True
+750,EMP-13281,2020-04-02,Career Change,3,2,False
+751,EMP-11733,2024-02-11,Family Reasons,2,3,False
+752,EMP-10558,2023-07-08,Relocation,3,5,True
+753,EMP-10291,2025-10-08,Restructuring,2,4,False
+754,EMP-10676,2025-07-14,Family Reasons,3,3,False
+755,EMP-11164,2021-03-02,Better Opportunity,4,3,False
+756,EMP-12540,2025-04-08,Retirement,4,5,True
+757,EMP-11305,2025-05-10,Career Change,5,3,False
+758,EMP-12636,2022-09-01,Performance,3,3,False
+759,EMP-12622,2023-07-18,Career Change,3,3,False
+760,EMP-10749,2024-11-23,Better Opportunity,5,4,False
+761,EMP-11112,2023-12-17,Family Reasons,3,2,True
+762,EMP-11548,2022-03-09,Retirement,4,3,True
+763,EMP-12508,2025-08-31,Performance,3,3,False
+764,EMP-13085,2025-01-05,Compensation,4,3,True
+765,EMP-12892,2023-11-03,Compensation,3,4,False
+766,EMP-13187,2025-04-14,Retirement,5,5,True
+767,EMP-10292,2025-09-05,Compensation,5,5,True
+768,EMP-12357,2022-09-03,Retirement,3,4,False
+769,EMP-11615,2022-05-27,Family Reasons,2,2,False
+770,EMP-12834,2024-11-13,Career Change,4,4,False
+771,EMP-11553,2022-02-26,Career Change,4,4,True
+772,EMP-11573,2024-12-07,Relocation,3,4,False
+773,EMP-12575,2023-05-09,Retirement,5,4,False
+774,EMP-10377,2022-11-05,Compensation,5,2,True
+775,EMP-11525,2025-01-20,Retirement,5,4,True
+776,EMP-12537,2023-04-12,Compensation,4,4,False
+777,EMP-10692,2024-04-06,Relocation,3,2,False
+778,EMP-10924,2022-07-11,Career Change,3,4,True
+779,EMP-12759,2024-12-30,Compensation,4,4,False
+780,EMP-10367,2024-05-13,Better Opportunity,5,3,False
+781,EMP-10081,2024-10-08,Policy Violation,3,4,False
+782,EMP-10255,2024-08-24,Relocation,2,4,False
+783,EMP-11404,2022-05-27,Performance,2,2,False
+784,EMP-12913,2024-05-28,Career Change,3,3,True
+785,EMP-10636,2024-05-08,Career Change,4,4,False
+786,EMP-12134,2022-10-19,Compensation,2,2,True
+787,EMP-11547,2025-05-14,Restructuring,2,3,False
+788,EMP-11552,2022-08-29,Compensation,4,2,True
+789,EMP-12832,2024-03-16,Better Opportunity,4,3,True
+790,EMP-11339,2024-02-21,Career Change,4,2,True
+791,EMP-12713,2024-07-30,Better Opportunity,4,2,True
+792,EMP-11792,2023-10-17,Career Change,5,2,False
+793,EMP-12512,2021-06-27,Compensation,4,3,True
+794,EMP-11818,2023-01-22,Retirement,2,3,True
+795,EMP-12432,2023-12-11,Relocation,4,4,False
+796,EMP-10465,2024-09-07,Compensation,2,2,False
+797,EMP-10216,2022-12-04,Retirement,3,2,True
+798,EMP-10026,2023-01-17,Performance,3,3,False
+799,EMP-11875,2025-11-13,Relocation,3,3,True
+800,EMP-10067,2022-05-31,Restructuring,3,5,False
+801,EMP-10079,2024-03-05,Performance,4,4,True
+802,EMP-11895,2021-10-13,Relocation,3,4,True
+803,EMP-10134,2025-12-07,Better Opportunity,3,2,False
+804,EMP-10435,2024-09-12,Relocation,5,3,True
+805,EMP-13044,2024-01-09,Career Change,5,4,False
+806,EMP-11230,2022-02-07,Compensation,4,4,True
+807,EMP-10691,2024-09-09,Retirement,3,2,False
+808,EMP-12405,2025-04-11,Better Opportunity,3,1,False
+809,EMP-12163,2022-12-30,Restructuring,3,2,False
+810,EMP-12037,2023-03-19,Relocation,5,3,True
+811,EMP-10967,2021-03-30,Compensation,2,3,True
+812,EMP-11510,2021-09-23,Performance,1,2,False
+813,EMP-12141,2025-10-16,Relocation,3,3,False
+814,EMP-12618,2024-09-04,Better Opportunity,3,2,True
+815,EMP-11609,2025-09-10,Policy Violation,2,1,False
+816,EMP-11337,2024-05-23,Compensation,4,4,False
+817,EMP-12450,2025-06-26,Policy Violation,2,3,False
+818,EMP-11981,2025-12-03,Restructuring,3,2,False
+819,EMP-12206,2024-07-29,Retirement,5,3,False
+820,EMP-11156,2020-05-10,Better Opportunity,4,3,False
+821,EMP-12012,2022-10-30,Relocation,4,3,True
+822,EMP-10659,2022-07-09,Better Opportunity,4,3,True
+823,EMP-12647,2024-01-24,Retirement,4,5,True
+824,EMP-11877,2024-04-09,Family Reasons,4,3,True
+825,EMP-11632,2025-10-14,Policy Violation,2,4,False
+826,EMP-13065,2025-05-17,Career Change,2,3,False
+827,EMP-10607,2021-01-28,Retirement,4,1,False
+828,EMP-10822,2022-02-24,Performance,1,3,False
+829,EMP-10815,2024-06-30,Family Reasons,4,2,False
+830,EMP-11040,2024-11-30,Career Change,4,3,False
+831,EMP-12391,2025-10-11,Family Reasons,3,2,False
+832,EMP-10363,2023-12-19,Career Change,5,3,True
+833,EMP-12507,2025-03-07,Policy Violation,2,5,False
+834,EMP-11644,2021-09-20,Policy Violation,2,1,False
+835,EMP-11530,2023-07-27,Policy Violation,2,4,False
+836,EMP-12473,2025-08-27,Compensation,3,2,False
+837,EMP-10137,2024-01-20,Retirement,3,3,False
+838,EMP-10525,2023-10-29,Relocation,2,3,False
+839,EMP-13141,2024-07-08,Compensation,3,2,True
+840,EMP-10390,2024-12-15,Compensation,5,4,True
+841,EMP-12918,2021-05-19,Family Reasons,3,3,True
+842,EMP-11429,2025-12-13,Restructuring,3,3,False
+843,EMP-10110,2023-05-05,Family Reasons,4,3,True
+844,EMP-12547,2021-10-30,Performance,1,3,False
+845,EMP-11424,2024-12-09,Better Opportunity,2,3,True
+846,EMP-10671,2023-01-21,Family Reasons,4,3,False
+847,EMP-10736,2021-05-12,Retirement,4,1,True
+848,EMP-13080,2022-05-03,Family Reasons,2,4,False
+849,EMP-11059,2023-06-08,Performance,3,2,False
+850,EMP-11746,2025-11-06,Policy Violation,2,2,True
+851,EMP-10445,2025-01-22,Compensation,3,4,False
+852,EMP-11353,2023-12-08,Family Reasons,4,3,False
+853,EMP-11025,2022-10-15,Policy Violation,1,1,False
+854,EMP-12508,2025-08-31,Performance,1,3,False
+855,EMP-11192,2025-09-15,Restructuring,2,3,False
+856,EMP-12070,2025-07-10,Family Reasons,3,3,True
+857,EMP-11664,2025-12-20,Family Reasons,5,4,False
+858,EMP-12287,2024-01-31,Compensation,3,2,False
+859,EMP-11403,2024-09-05,Relocation,1,3,True
+860,EMP-11801,2025-06-13,Compensation,5,4,True
+861,EMP-13280,2025-03-17,Policy Violation,3,4,False
+862,EMP-10028,2021-11-29,Compensation,5,2,False
+863,EMP-10641,2025-04-04,Better Opportunity,3,3,False
+864,EMP-11880,2024-06-01,Better Opportunity,5,4,True
+865,EMP-11331,2024-03-02,Performance,2,3,False
+866,EMP-10649,2022-04-29,Relocation,4,4,True
+867,EMP-10266,2023-02-08,Family Reasons,4,2,False
+868,EMP-10125,2025-06-16,Relocation,4,4,True
+869,EMP-12704,2025-10-10,Better Opportunity,4,2,False
+870,EMP-13024,2024-01-01,Career Change,5,3,False
+871,EMP-12102,2024-11-27,Compensation,4,3,False
+872,EMP-11432,2025-12-22,Retirement,4,2,False
+873,EMP-11606,2025-11-15,Compensation,5,4,False
+874,EMP-12360,2024-07-09,Relocation,3,2,True
+875,EMP-11227,2025-01-21,Career Change,4,4,True
+876,EMP-10163,2020-01-02,Family Reasons,3,4,True
+877,EMP-11686,2024-06-24,Family Reasons,4,3,False
+878,EMP-11831,2025-10-30,Career Change,5,3,True
+879,EMP-10272,2022-03-02,Policy Violation,2,1,False
+880,EMP-11236,2024-03-14,Better Opportunity,1,4,False
+881,EMP-13098,2025-03-25,Policy Violation,2,3,False
+882,EMP-12914,2023-02-16,Relocation,3,2,True
+883,EMP-12583,2023-04-06,Retirement,3,4,True
+884,EMP-13284,2024-09-29,Career Change,3,3,False
+885,EMP-11487,2024-02-07,Family Reasons,2,2,True
+886,EMP-13181,2023-07-29,Performance,2,3,False
+887,EMP-12211,2024-08-14,Better Opportunity,4,4,False
+888,EMP-10426,2022-11-23,Performance,4,2,False
+889,EMP-13269,2021-01-24,Family Reasons,4,2,True
+890,EMP-10122,2022-11-16,Policy Violation,2,4,False
+891,EMP-10987,2023-07-08,Relocation,3,1,True
+892,EMP-12817,2024-01-10,Retirement,3,3,True
+893,EMP-12320,2021-11-04,Relocation,4,2,False
+894,EMP-11840,2020-04-18,Compensation,4,4,True
+895,EMP-10632,2023-03-24,Compensation,3,2,False
+896,EMP-11355,2021-05-03,Family Reasons,4,3,True
+897,EMP-10548,2024-07-18,Better Opportunity,3,3,False
+898,EMP-11847,2023-07-06,Compensation,2,3,False
+899,EMP-12640,2025-10-05,Career Change,4,3,True
+900,EMP-11006,2025-12-02,Retirement,3,4,True
+901,EMP-12750,2022-06-09,Compensation,2,4,True
+902,EMP-10935,2021-09-10,Policy Violation,2,4,False
+903,EMP-12364,2025-06-10,Retirement,2,3,False
+904,EMP-10227,2023-09-11,Performance,3,3,True
+905,EMP-12952,2025-10-11,Better Opportunity,3,2,False
+906,EMP-12691,2024-01-27,Restructuring,2,4,False
+907,EMP-10305,2024-04-14,Retirement,4,3,False
+908,EMP-11378,2024-12-30,Career Change,3,3,False
+909,EMP-11964,2024-09-08,Family Reasons,3,3,False
+910,EMP-10984,2024-12-30,Compensation,4,3,False
+911,EMP-11322,2025-06-23,Better Opportunity,3,4,True
+912,EMP-10455,2024-12-23,Better Opportunity,4,4,True
+913,EMP-10918,2023-03-03,Career Change,4,5,False
+914,EMP-11811,2024-07-23,Policy Violation,4,1,False
+915,EMP-12252,2022-04-29,Relocation,1,4,False
+916,EMP-11770,2025-03-02,Compensation,2,3,False
+917,EMP-10682,2024-05-02,Retirement,3,3,False
+918,EMP-11124,2024-10-03,Relocation,3,2,False
+919,EMP-12294,2022-05-04,Performance,3,5,False
+920,EMP-12003,2025-05-10,Retirement,2,2,False
+921,EMP-12564,2025-02-15,Relocation,4,4,False
+922,EMP-13192,2024-11-09,Better Opportunity,5,2,True
+923,EMP-10174,2024-09-04,Career Change,2,2,True
+924,EMP-11626,2023-07-04,Relocation,2,2,False
+925,EMP-12289,2023-03-01,Retirement,4,5,True
+926,EMP-10966,2025-07-21,Better Opportunity,4,4,False
+927,EMP-10098,2023-04-17,Career Change,3,4,False
+928,EMP-12897,2023-12-30,Family Reasons,5,2,True
+929,EMP-12200,2023-10-01,Career Change,5,2,True
+930,EMP-10817,2023-12-03,Compensation,2,3,True
+931,EMP-12418,2023-08-24,Relocation,4,2,False
+932,EMP-10281,2021-03-18,Policy Violation,1,4,True
+933,EMP-11760,2022-04-02,Restructuring,4,4,False
+934,EMP-11653,2024-06-02,Compensation,4,5,False
+935,EMP-13250,2025-05-20,Performance,4,5,False
+936,EMP-13188,2022-03-18,Relocation,3,2,False
+937,EMP-10738,2023-10-30,Policy Violation,2,1,False
+938,EMP-11010,2025-10-20,Family Reasons,4,2,False
+939,EMP-11341,2025-08-14,Performance,3,2,False
+940,EMP-11567,2025-06-03,Retirement,4,5,False
+941,EMP-10155,2023-08-31,Policy Violation,2,3,False
+942,EMP-11210,2025-06-23,Family Reasons,5,5,True
+943,EMP-13195,2025-09-07,Restructuring,2,2,False
+944,EMP-12534,2025-08-29,Policy Violation,1,5,False
+945,EMP-11155,2023-02-03,Compensation,3,5,True
+946,EMP-11521,2025-06-26,Retirement,3,3,True
+947,EMP-10776,2023-02-07,Career Change,3,4,False
+948,EMP-11846,2025-02-07,Better Opportunity,4,2,True
+949,EMP-11163,2024-07-04,Retirement,4,4,True
+950,EMP-10566,2025-09-06,Policy Violation,2,4,False
+951,EMP-12377,2025-10-21,Restructuring,3,2,False
+952,EMP-13278,2023-09-18,Family Reasons,4,2,False
+953,EMP-12830,2023-05-18,Family Reasons,5,3,False
+954,EMP-11731,2022-03-10,Compensation,4,3,False
+955,EMP-11813,2025-03-13,Restructuring,2,2,False
+956,EMP-12525,2023-03-28,Better Opportunity,4,3,True
+957,EMP-11706,2024-01-16,Compensation,5,4,True
+958,EMP-10759,2025-02-24,Retirement,3,3,True
+959,EMP-10104,2024-12-09,Career Change,2,4,True
+960,EMP-11211,2025-11-01,Better Opportunity,2,4,True
+961,EMP-10478,2024-12-08,Better Opportunity,5,3,False
+962,EMP-13007,2021-07-17,Better Opportunity,3,3,True
+963,EMP-11595,2023-07-28,Family Reasons,4,4,True
+964,EMP-13292,2023-12-27,Relocation,3,4,False
+965,EMP-13096,2022-03-22,Compensation,4,2,True
+966,EMP-11437,2025-06-01,Better Opportunity,2,4,True
+967,EMP-10506,2022-11-01,Family Reasons,4,3,False
