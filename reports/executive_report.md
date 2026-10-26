@@ -1,9 +1,4 @@
-# HR People Analytics & Workforce Intelligence — Executive Report
-
-**Analyst:** Ravikant Yadav  
-**Timeframe Analyzed:** January 2019 – December 2025 (7 Operating Years)  
-**Dataset Scope:** 3,300 validated employee lifecycle records, 1,890 active staff, 7 departments, 8,391 performance reviews  
-
+# HR People Analytics & Workforce Intelligence 
 ---
 
 ## Why I Built This Project
@@ -15,7 +10,7 @@ I wanted to look at workforce dynamics the way an executive leadership team or C
 By combining PostgreSQL 14+, Scikit-Learn, and Power BI, I set out to answer the questions that standard HR reports routinely miss:
 * *Why did our workforce contract for the first time in company history in 2025?*
 * *Are top performers really leaving faster than low performers, or is that corporate folklore?*
-* *Where is financial replacement cost concentrated — in high-turnover small teams, or low-turnover large engineering organizations?*
+* *Where is financial replacement cost concentrated in high turnover small teams, or low turnover large engineering organizations?*
 * *Does a gender wage gap persist once we control for seniority and job level (Simpson's Paradox)?*
 * *What does machine learning actually tell us about flight risk when we rigorously stress-test for data leakage?*
 
@@ -54,13 +49,13 @@ Top-Performer Flight Risk:       43.2% high performers leave (vs. 39.6% low perf
 
 ---
 
-### 2. The High-Performer Retention Fallacy
+### 2. The High Performer Retention Fallacy
 Most corporate retention budgets disproportionately target "top talent" retention bonuses under the assumption that high performers leave at higher rates. The empirical data disproves this hypothesis:
-* **High Performers (Score 4–5):** **43.24%** cumulative attrition
+* **High Performers (Score 4-5):** **43.24%** cumulative attrition
 * **Solid Performers (Score 3):** **43.57%** cumulative attrition
-* **Low Performers (Score 1–2):** **39.63%** cumulative attrition
+* **Low Performers (Score 1-2):** **39.63%** cumulative attrition
 
-**What this means for leadership:** Departures are largely **performance-independent**. When employees leave, they cite Career Change (200), Compensation (191), Family Reasons (188), and Relocation (177) — not performance friction. Pouring retention capital into performance-contingent bonuses fails because top talent departs for the same market compensation and commute reasons as everyone else.
+**What this means for leadership:** Departures are largely **performance-independent**. When employees leave, they cite Career Change (200), Compensation (191), Family Reasons (188), and Relocation (177) not performance friction. Pouring retention capital into performance-contingent bonuses fails because top talent departs for the same market compensation and commute reasons as everyone else.
 
 ---
 
