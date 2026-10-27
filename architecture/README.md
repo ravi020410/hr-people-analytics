@@ -63,7 +63,7 @@ erDiagram
 
 ---
 
-## 3. Relational Schema Specifications & Data Dictionary
+## Relational Schema Specifications & Data Dictionary
 
 ### Table 1: `analytics.departments` (Organizational Dimension)
 * **Storage Engine:** PostgreSQL 14+ Relational Table  
