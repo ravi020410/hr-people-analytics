@@ -1,0 +1,434 @@
+{
+  "headcount": [
+    {
+      "snapshot": "2019-12-31T00:00:00.000Z",
+      "headcount": 108
+    },
+    {
+      "snapshot": "2020-12-31T00:00:00.000Z",
+      "headcount": 469
+    },
+    {
+      "snapshot": "2021-12-31T00:00:00.000Z",
+      "headcount": 994
+    },
+    {
+      "snapshot": "2022-12-31T00:00:00.000Z",
+      "headcount": 1653
+    },
+    {
+      "snapshot": "2023-12-31T00:00:00.000Z",
+      "headcount": 2115
+    },
+    {
+      "snapshot": "2024-12-31T00:00:00.000Z",
+      "headcount": 2195
+    },
+    {
+      "snapshot": "2025-12-31T00:00:00.000Z",
+      "headcount": 1890
+    }
+  ],
+  "attrition_trend": [
+    {
+      "yr": 2019,
+      "departures": 3,
+      "avg_headcount": 54.0,
+      "attrition_rate_pct": 5.56
+    },
+    {
+      "yr": 2020,
+      "departures": 32,
+      "avg_headcount": 289.0,
+      "attrition_rate_pct": 11.09
+    },
+    {
+      "yr": 2021,
+      "departures": 97,
+      "avg_headcount": 732.0,
+      "attrition_rate_pct": 13.26
+    },
+    {
+      "yr": 2022,
+      "departures": 177,
+      "avg_headcount": 1324.0,
+      "attrition_rate_pct": 13.37
+    },
+    {
+      "yr": 2023,
+      "departures": 268,
+      "avg_headcount": 1884.0,
+      "attrition_rate_pct": 14.23
+    },
+    {
+      "yr": 2024,
+      "departures": 373,
+      "avg_headcount": 2155.0,
+      "attrition_rate_pct": 17.31
+    },
+    {
+      "yr": 2025,
+      "departures": 460,
+      "avg_headcount": 2043.0,
+      "attrition_rate_pct": 22.52
+    }
+  ],
+  "attrition_by_dept": [
+    {
+      "department": "HR",
+      "total_employees": 196,
+      "departed": 102,
+      "attrition_rate_pct": 52.04
+    },
+    {
+      "department": "Sales",
+      "total_employees": 669,
+      "departed": 327,
+      "attrition_rate_pct": 48.88
+    },
+    {
+      "department": "Customer Success",
+      "total_employees": 427,
+      "departed": 206,
+      "attrition_rate_pct": 48.24
+    },
+    {
+      "department": "Operations",
+      "total_employees": 196,
+      "departed": 91,
+      "attrition_rate_pct": 46.43
+    },
+    {
+      "department": "Marketing",
+      "total_employees": 348,
+      "departed": 160,
+      "attrition_rate_pct": 45.98
+    },
+    {
+      "department": "Finance",
+      "total_employees": 299,
+      "departed": 135,
+      "attrition_rate_pct": 45.15
+    },
+    {
+      "department": "Engineering",
+      "total_employees": 1165,
+      "departed": 511,
+      "attrition_rate_pct": 43.86
+    }
+  ],
+  "attrition_by_level": [
+    {
+      "job_level": 1,
+      "total_employees": 1573,
+      "attrition_rate_pct": 45.52,
+      "avg_age": 33.8
+    },
+    {
+      "job_level": 2,
+      "total_employees": 877,
+      "attrition_rate_pct": 46.29,
+      "avg_age": 34.0
+    },
+    {
+      "job_level": 3,
+      "total_employees": 850,
+      "attrition_rate_pct": 48.24,
+      "avg_age": 33.9
+    }
+  ],
+  "voluntary_split": [
+    {
+      "attrition_type": "Voluntary",
+      "departures": 1103,
+      "pct_of_departures": 78.23
+    },
+    {
+      "attrition_type": "Involuntary",
+      "departures": 307,
+      "pct_of_departures": 21.77
+    }
+  ],
+  "salary_by_dept": [
+    {
+      "department": "Finance",
+      "avg_base_salary": 108135.01,
+      "salary_rank": 1
+    },
+    {
+      "department": "Engineering",
+      "avg_base_salary": 96415.65,
+      "salary_rank": 2
+    },
+    {
+      "department": "Marketing",
+      "avg_base_salary": 96135.45,
+      "salary_rank": 3
+    },
+    {
+      "department": "HR",
+      "avg_base_salary": 94790.52,
+      "salary_rank": 4
+    },
+    {
+      "department": "Customer Success",
+      "avg_base_salary": 93918.36,
+      "salary_rank": 5
+    },
+    {
+      "department": "Sales",
+      "avg_base_salary": 93734.07,
+      "salary_rank": 6
+    },
+    {
+      "department": "Operations",
+      "avg_base_salary": 84114.84,
+      "salary_rank": 7
+    }
+  ],
+  "pay_gap_by_level": [
+    {
+      "job_level": 1,
+      "gender": "Male",
+      "employees": 784,
+      "avg_base_salary": 68926.7
+    },
+    {
+      "job_level": 1,
+      "gender": "Non-binary",
+      "employees": 50,
+      "avg_base_salary": 68735.54
+    },
+    {
+      "job_level": 1,
+      "gender": "Female",
+      "employees": 728,
+      "avg_base_salary": 67124.64
+    },
+    {
+      "job_level": 2,
+      "gender": "Non-binary",
+      "employees": 21,
+      "avg_base_salary": 103990.32
+    },
+    {
+      "job_level": 2,
+      "gender": "Male",
+      "employees": 404,
+      "avg_base_salary": 101919.48
+    },
+    {
+      "job_level": 2,
+      "gender": "Female",
+      "employees": 447,
+      "avg_base_salary": 99256.49
+    },
+    {
+      "job_level": 3,
+      "gender": "Male",
+      "employees": 441,
+      "avg_base_salary": 143785.86
+    },
+    {
+      "job_level": 3,
+      "gender": "Female",
+      "employees": 377,
+      "avg_base_salary": 139273.66
+    },
+    {
+      "job_level": 3,
+      "gender": "Non-binary",
+      "employees": 34,
+      "avg_base_salary": 138013.98
+    }
+  ],
+  "performance_dist": [
+    {
+      "performance_score": 1,
+      "reviews": 302,
+      "pct_of_reviews": 3.62
+    },
+    {
+      "performance_score": 2,
+      "reviews": 1588,
+      "pct_of_reviews": 19.02
+    },
+    {
+      "performance_score": 3,
+      "reviews": 3398,
+      "pct_of_reviews": 40.69
+    },
+    {
+      "performance_score": 4,
+      "reviews": 2415,
+      "pct_of_reviews": 28.92
+    },
+    {
+      "performance_score": 5,
+      "reviews": 647,
+      "pct_of_reviews": 7.75
+    }
+  ],
+  "high_perf_attrition": [
+    {
+      "performance_tier": "Solid Performer (3)",
+      "employees": 1214,
+      "attrition_rate_pct": 43.57
+    },
+    {
+      "performance_tier": "High Performer (4-5)",
+      "employees": 1094,
+      "attrition_rate_pct": 43.24
+    },
+    {
+      "performance_tier": "Low Performer (1-2)",
+      "employees": 694,
+      "attrition_rate_pct": 39.63
+    }
+  ],
+  "exit_reasons": [
+    {
+      "reason": "Retirement",
+      "departures": 134,
+      "pct_of_departures": 13.86,
+      "avg_satisfaction": 3.46
+    },
+    {
+      "reason": "Compensation",
+      "departures": 131,
+      "pct_of_departures": 13.55,
+      "avg_satisfaction": 3.34
+    },
+    {
+      "reason": "Family Reasons",
+      "departures": 129,
+      "pct_of_departures": 13.34,
+      "avg_satisfaction": 3.4
+    },
+    {
+      "reason": "Career Change",
+      "departures": 124,
+      "pct_of_departures": 12.82,
+      "avg_satisfaction": 3.6
+    },
+    {
+      "reason": "Relocation",
+      "departures": 121,
+      "pct_of_departures": 12.51,
+      "avg_satisfaction": 3.39
+    },
+    {
+      "reason": "Better Opportunity",
+      "departures": 118,
+      "pct_of_departures": 12.2,
+      "avg_satisfaction": 3.43
+    },
+    {
+      "reason": "Performance",
+      "departures": 79,
+      "pct_of_departures": 8.17,
+      "avg_satisfaction": 2.24
+    },
+    {
+      "reason": "Policy Violation",
+      "departures": 72,
+      "pct_of_departures": 7.45,
+      "avg_satisfaction": 2.25
+    },
+    {
+      "reason": "Restructuring",
+      "departures": 59,
+      "pct_of_departures": 6.1,
+      "avg_satisfaction": 2.34
+    }
+  ],
+  "commute_attrition": [
+    {
+      "commute_bucket": "0-5 miles",
+      "employees": 1424,
+      "attrition_rate_pct": 47.12
+    },
+    {
+      "commute_bucket": "6-15 miles",
+      "employees": 1193,
+      "attrition_rate_pct": 46.69
+    },
+    {
+      "commute_bucket": "16-30 miles",
+      "employees": 509,
+      "attrition_rate_pct": 43.03
+    },
+    {
+      "commute_bucket": "30+ miles",
+      "employees": 116,
+      "attrition_rate_pct": 50.86
+    }
+  ],
+  "cost_by_dept": [
+    {
+      "department": "Engineering",
+      "voluntary_departures": 360,
+      "estimated_replacement_cost": 17546047.56
+    },
+    {
+      "department": "Sales",
+      "voluntary_departures": 239,
+      "estimated_replacement_cost": 11234067.75
+    },
+    {
+      "department": "Customer Success",
+      "voluntary_departures": 153,
+      "estimated_replacement_cost": 7326055.15
+    },
+    {
+      "department": "Finance",
+      "voluntary_departures": 97,
+      "estimated_replacement_cost": 5454067.96
+    },
+    {
+      "department": "Marketing",
+      "voluntary_departures": 111,
+      "estimated_replacement_cost": 5224863.22
+    },
+    {
+      "department": "HR",
+      "voluntary_departures": 79,
+      "estimated_replacement_cost": 3830399.1
+    },
+    {
+      "department": "Operations",
+      "voluntary_departures": 59,
+      "estimated_replacement_cost": 2652490.42
+    }
+  ],
+  "attrition_model": {
+    "roc_auc": 0.7208,
+    "attrition_rate": 0.4665,
+    "top_features": [
+      [
+        "tenure_years",
+        0.5332
+      ],
+      [
+        "compa_ratio",
+        0.1247
+      ],
+      [
+        "distance_from_home_miles",
+        0.0957
+      ],
+      [
+        "age",
+        0.0769
+      ],
+      [
+        "dept_enc",
+        0.0398
+      ],
+      [
+        "performance_score",
+        0.0398
+      ]
+    ]
+  }
+}
